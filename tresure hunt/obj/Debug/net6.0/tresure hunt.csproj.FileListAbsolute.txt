@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\bin\Debug\net6.0\tresure hunt.exe
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\bin\Debug\net6.0\tresure hunt.deps.json
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\bin\Debug\net6.0\tresure hunt.runtimeconfig.json
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\bin\Debug\net6.0\tresure hunt.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\bin\Debug\net6.0\tresure hunt.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\obj\Debug\net6.0\tresure hunt.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\obj\Debug\net6.0\tresure hunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\obj\Debug\net6.0\tresure hunt.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\obj\Debug\net6.0\tresure hunt.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\obj\Debug\net6.0\tresure hunt.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\obj\Debug\net6.0\tresure hunt.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\obj\Debug\net6.0\refint\tresure hunt.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\obj\Debug\net6.0\tresure hunt.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\obj\Debug\net6.0\tresure hunt.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\tresure hunt\obj\Debug\net6.0\ref\tresure hunt.dll
