@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "off road", "off road.csproj", "{A79A994D-AE84-4D88-9D5E-ABF459C59232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A79A994D-AE84-4D88-9D5E-ABF459C59232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79A994D-AE84-4D88-9D5E-ABF459C59232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79A994D-AE84-4D88-9D5E-ABF459C59232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79A994D-AE84-4D88-9D5E-ABF459C59232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC83B250-3D88-40E6-AE5C-69B5CA3D25C4}
+	EndGlobalSection
+EndGlobal

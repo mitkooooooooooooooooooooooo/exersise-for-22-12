@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\bin\Debug\net6.0\off road.exe
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\bin\Debug\net6.0\off road.deps.json
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\bin\Debug\net6.0\off road.runtimeconfig.json
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\bin\Debug\net6.0\off road.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\bin\Debug\net6.0\off road.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\obj\Debug\net6.0\off road.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\obj\Debug\net6.0\off road.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\obj\Debug\net6.0\off road.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\obj\Debug\net6.0\off road.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\obj\Debug\net6.0\off road.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\obj\Debug\net6.0\off road.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\obj\Debug\net6.0\refint\off road.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\obj\Debug\net6.0\off road.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\obj\Debug\net6.0\off road.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\off road\obj\Debug\net6.0\ref\off road.dll
