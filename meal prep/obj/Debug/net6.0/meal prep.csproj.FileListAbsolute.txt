@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\bin\Debug\net6.0\meal prep.exe
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\bin\Debug\net6.0\meal prep.deps.json
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\bin\Debug\net6.0\meal prep.runtimeconfig.json
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\bin\Debug\net6.0\meal prep.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\bin\Debug\net6.0\meal prep.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\obj\Debug\net6.0\meal prep.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\obj\Debug\net6.0\meal prep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\obj\Debug\net6.0\meal prep.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\obj\Debug\net6.0\meal prep.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\obj\Debug\net6.0\meal prep.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\obj\Debug\net6.0\meal prep.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\obj\Debug\net6.0\refint\meal prep.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\obj\Debug\net6.0\meal prep.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\obj\Debug\net6.0\meal prep.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\meal prep\obj\Debug\net6.0\ref\meal prep.dll
