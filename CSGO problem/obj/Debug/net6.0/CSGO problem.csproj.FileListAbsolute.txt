@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\bin\Debug\net6.0\CSGO problem.exe
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\bin\Debug\net6.0\CSGO problem.deps.json
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\bin\Debug\net6.0\CSGO problem.runtimeconfig.json
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\bin\Debug\net6.0\CSGO problem.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\bin\Debug\net6.0\CSGO problem.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\obj\Debug\net6.0\CSGO problem.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\obj\Debug\net6.0\CSGO problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\obj\Debug\net6.0\CSGO problem.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\obj\Debug\net6.0\CSGO problem.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\obj\Debug\net6.0\CSGO problem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\obj\Debug\net6.0\CSGO problem.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\obj\Debug\net6.0\refint\CSGO problem.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\obj\Debug\net6.0\CSGO problem.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\obj\Debug\net6.0\CSGO problem.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\CSGO problem\obj\Debug\net6.0\ref\CSGO problem.dll
