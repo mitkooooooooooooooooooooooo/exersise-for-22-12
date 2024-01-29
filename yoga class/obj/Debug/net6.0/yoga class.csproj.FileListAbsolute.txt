@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\bin\Debug\net6.0\yoga class.exe
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\bin\Debug\net6.0\yoga class.deps.json
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\bin\Debug\net6.0\yoga class.runtimeconfig.json
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\bin\Debug\net6.0\yoga class.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\bin\Debug\net6.0\yoga class.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\obj\Debug\net6.0\yoga class.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\obj\Debug\net6.0\yoga class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\obj\Debug\net6.0\yoga class.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\obj\Debug\net6.0\yoga class.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\obj\Debug\net6.0\yoga class.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\obj\Debug\net6.0\yoga class.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\obj\Debug\net6.0\refint\yoga class.dll
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\obj\Debug\net6.0\yoga class.pdb
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\obj\Debug\net6.0\yoga class.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Документи\GitHub\exersise-for-22-12\yoga class\obj\Debug\net6.0\ref\yoga class.dll
